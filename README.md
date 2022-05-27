@@ -1,4 +1,4 @@
-Project Link - https://nextjs-demo-project-965izj2ov-rimjhim20.vercel.app/
+Project Link - https://next-js-project-b4baxczcg-rimjhim20.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
