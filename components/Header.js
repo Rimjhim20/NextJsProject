@@ -1,5 +1,6 @@
 import Navbar from "../components/Navbar";
 import styles from "../styles/index.module.css";
+
 import Image from "next/image";
 
 const Header = () => {
@@ -7,6 +8,9 @@ const Header = () => {
     <>
     <header className={styles.header}>
        <Navbar/>
+
+       <div className={styles.container}>
+   
       <div className={styles.text_box}>
         <h1 className={styles.heading_primary}>
           <span className={styles.heading_primary_main}>
@@ -20,13 +24,17 @@ const Header = () => {
           Join Us
         </a>
       </div>
+     
+
       <div className={styles.image}>
-      <Image 
+   <Image 
       width="650"
       height="400"
       objectFit="cover"
           src="/job.png">
           </Image>
+   </div>
+      
          
           </div>
     </header>
