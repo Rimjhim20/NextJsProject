@@ -5,7 +5,6 @@ import Image from "next/image";
 const Header = () => {
   return (
     <>
-   
     <header className={styles.header}>
        <Navbar/>
       <div className={styles.text_box}>

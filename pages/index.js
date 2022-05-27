@@ -1,13 +1,9 @@
-
 import Home from "./home";
 
 const index = () => {
   return (
     <>
-      
       <Home />
-      
-      
     </>
   );
 };

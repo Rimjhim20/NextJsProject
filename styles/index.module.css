@@ -4,9 +4,7 @@
   background-size: cover;
   position: relative;
 }
-.brand {
-  font-size: 20px;
-}
+
 .text_box {
   position: absolute;
   top: 35%;
@@ -52,7 +50,6 @@
   border-radius: 20px;
   transition: all 0.2s;
   color:rgb(105, 1, 1);
-  
   position: relative;
 }
 
@@ -64,6 +61,5 @@
 .image{
 float: right;
 padding: 120px 5px 0px 0px;
-
 }
 
